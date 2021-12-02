@@ -1,0 +1,9 @@
+# directories
+.vs/
+Debug/
+
+#files
+*.user
+*.filters
+*.vcxproj
+*.sln
