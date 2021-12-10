@@ -1,4 +1,4 @@
-Implementation of sequential-threshold ridge regression using OpenMP and GSL.  For details, see Dr. Kutz's paper: https://www.science.org/doi/10.1126/sciadv.1602614
+Implementation of sequential-threshold ridge regression using OpenMP and GSL.  For details, see the paper by Kutz et al.: https://www.science.org/doi/10.1126/sciadv.1602614
 
 To do: <br />
 -- add makefile that isn't for BigRED <br />
